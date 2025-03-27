@@ -29,12 +29,19 @@ export const Button = styled.button`
   border: none;
   border-radius: 4px;
   cursor: pointer;
+`;
+
+export const LogoutLink = styled.a`
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+  margin-left: 1rem;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  
+  &:hover {
+    opacity: 1;
+  }
   background-color: transparent;
   color: white;
-  border: 1px solid white;
-
-  &:hover {
-    background-color: white;
-    color: #061044;
-  }
 `;
