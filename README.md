@@ -36,9 +36,9 @@
 
 ---
 
-## 🧩 Figma
+## 🧩 Design
 
-- **https://www.figma.com/proto/D5V8dZs9D47YkEsIFtgJQ3/MLOI-site?node-id=19-2&t=fYduz9mXoEZpd2Mb-1**
+- Figma: https://www.figma.com/design/D5V8dZs9D47YkEsIFtgJQ3/MLOI-site?node-id=0-1&m=dev&t=fYduz9mXoEZpd2Mb-1
 
 ---
 
