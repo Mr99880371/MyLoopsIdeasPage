@@ -8,10 +8,10 @@
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
     "flatlist-react": "^1.5.14",
+    "framer-motion": "^4.1.17",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^3.0.1",
-    "styled-components": "^6.1.16",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -37,5 +37,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7",
+    "typescript": "^5.8.3"
   }
 }
